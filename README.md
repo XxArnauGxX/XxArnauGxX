@@ -5,10 +5,6 @@
 ## Contact with me
 
 - [LinkedIn](https://www.linkedin.com/in/tu_perfil](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9/): 🔗 Connect with me on LinkedIn!
-- [Twitter](https://twitter.com/tu_usuario): 🐦 Follow me on Twitter for the latest updates.
-- [Instagram](https://www.instagram.com/tu_usuario): 📸 I share moments on Instagram.
-- [Facebook](https://www.facebook.com/tu_usuario): 👍 Find me on Facebook!
-
 
 # 💫 About me:
 - 🎓 Currently a 1st year student of DAW (Web Application Development).
