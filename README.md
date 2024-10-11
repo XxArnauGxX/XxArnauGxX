@@ -4,12 +4,12 @@
 
 ## Contact with me
 
-<img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="150"> Conéctate conmigo en LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
+<img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="150"> LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
 
 
 # 💫 About me:
-- 🎓 Currently a 1st year student of DAW (Web Application Development).
-- 💻 Experience in Java, HTML, and CSS.
+- 🎓 Currently a 2nd year student of DAW (Web Application Development).
+- 💻 Experience in lot of languajes and tools.
 - 🚀 Passionate about web development and programming.
 
 
@@ -20,7 +20,14 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+    ![PHP](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![JS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2348BB22.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 👅 Languages:
 
