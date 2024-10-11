@@ -4,7 +4,7 @@
 
 ## Contact with me
 
-- ![LinkedIn](www.linkedin.com/in/arnau-gil-gil-b8309b2b9): 🔗 Connect with me on LinkedIn!
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9) 🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
 
 # 💫 About me:
 - 🎓 Currently a 1st year student of DAW (Web Application Development).
