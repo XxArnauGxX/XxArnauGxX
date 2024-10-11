@@ -4,7 +4,7 @@
 
 ## Contact with me
 
-<img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="50"> Conéctate conmigo en LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
+<img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" width="150"> Conéctate conmigo en LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
 
 
 # 💫 About me:
