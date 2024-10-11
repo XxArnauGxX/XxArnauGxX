@@ -4,7 +4,7 @@
 
 ## Contact with me
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png =50x) "Conéctate conmigo en LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)"
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){: width="50"} Conéctate conmigo en LinkedIn: [www.linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
 
 
 # 💫 About me:
