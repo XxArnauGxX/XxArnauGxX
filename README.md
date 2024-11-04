@@ -1,4 +1,4 @@
-# ¡Hola, soy Arnau Gil! <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7/giphy.gif](https://i.gifer.com/5AB6.gif)" width="35">
+# ¡Hola, soy Arnau Gil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7/giphy.gif" width="35">
 
 ## 💫 Sobre mí
 
