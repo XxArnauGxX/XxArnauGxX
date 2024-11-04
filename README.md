@@ -30,9 +30,9 @@
 
 ## 🌐 Idiomas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="50" alt="Español">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Catalonia.svg" width="50" alt="Catalán">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" width="50" alt="Inglés">
+<img src="https://s1.eestatic.com/2021/11/02/curiosidades/espana-pueblos/624199499_213629722_1706x960.jpg" width="50">
+<img src="https://i.pinimg.com/474x/0c/63/26/0c63267d57701129ba83c4bfea92bc40.jpg" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" width="50">
 
 ## 📊 Estadísticas de GitHub
 
