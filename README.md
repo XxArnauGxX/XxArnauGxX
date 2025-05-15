@@ -1,22 +1,17 @@
-  <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
 <div id="user-content-toc" bis_skin_checked="1">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Arnau</h1></summary>
   </ul>
 </div>
-<!--- snake -->
 <div align="center" bis_skin_checked="1">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
 </div>
-<!--h2 without bottom border-->
 <div id="user-content-toc" bis_skin_checked="1">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-<!--Intro start-->
 <ul>
 <li>
 <p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
@@ -40,19 +35,16 @@
 <p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
 </li>
 </ul>
-<!--Intro end-->
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 </p>
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX;theme=dark&amp;show_icons=true&amp;count_private=true">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX;theme=dark&amp;hide_border=false"> 
 </td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XxArnauGxX;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody></table>
