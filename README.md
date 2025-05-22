@@ -24,13 +24,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Projects in Progress
 
-| ⭐ Project | Description | Tech Stack |
-|-----------|-------------|------------|
-| [🎮 GameHub](https://github.com/XxArnauGxX/GameHub) | A game discovery and review platform inspired by Steam. | React, Node.js, MongoDB |
-| [📊 DashData](https://github.com/XxArnauGxX/DashData) | Real-time analytics dashboard for tracking KPIs. | Next.js, Chart.js, Supabase |
-| [🌐 Personal Portfolio](https://github.com/XxArnauGxX/portfolio) | My personal developer website. | HTML, SCSS, JavaScript |
+> I'm currently working on several personal and portfolio projects. Stay tuned — more coming soon!
 
 ---
 
@@ -54,8 +50,8 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: [gilgilarnau@gmail.com](mailto:gilgilarnau@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/arnaudev](https://linkedin.com/in/arnaudev)
-- 🌍 Portfolio: [arnaudev.com](https://arnaudev.com)
+- 💼 LinkedIn: [linkedin.com/in/arnau-gil-gil-b8309b2b9](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
+- 🌍 Portfolio: [xxarnaugxx.github.io/curriculum-web](https://xxarnaugxx.github.io/curriculum-web/)
 
 ---
 
