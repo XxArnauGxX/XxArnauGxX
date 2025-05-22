@@ -26,14 +26,20 @@
 
 ## 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:gilgilarnau@gmail.com" title="Email" style="text-decoration:none; color:#D14836; font-weight:600; margin: 0 12px;">
+<p align="center" style="margin-bottom: 20px;">
+  <a href="mailto:gilgilarnau@gmail.com" 
+     style="display: inline-block; text-decoration: none; background-color: #D14836; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     title="Email">
     📧 Email
   </a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn" style="text-decoration:none; color:#0077B5; font-weight:600; margin: 0 12px;">
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" 
+     style="display: inline-block; text-decoration: none; background-color: #0077B5; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     title="LinkedIn">
     💼 LinkedIn
   </a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio" style="text-decoration:none; color:#121212; font-weight:600; margin: 0 12px;">
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" 
+     style="display: inline-block; text-decoration: none; background-color: #121212; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     title="Portfolio">
     💻 Portfolio
   </a>
 </p>
@@ -62,16 +68,25 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
+<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
+  Frontend Technologies
+</p>
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
+<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
+  Backend Technologies
+</p>
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
 </p>
 
 ### 🖥️ Others
+<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
+  Other Tools & Platforms
+</p>
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,gcp,aws" />
 </p>
@@ -80,7 +95,11 @@
 
 ## 🌟 Soft Skills
 
-<p style="font-size: 1.1em; letter-spacing: 1.2px;">
+<p align="center" style="font-weight: 600; font-size: 1.3em; margin-bottom: 10px;">
+  Soft Skills
+</p>
+
+<p style="font-size: 1.1em; letter-spacing: 1.2px; text-align: center;">
   <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Communication</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Problem Solving</code> &nbsp;&nbsp;|&nbsp;&nbsp;
