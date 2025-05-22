@@ -13,18 +13,17 @@ jobs:
       - name: Checkout the repo
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: XxArnauGxX
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit and push to output branch
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          commit_message: "🐍 update contribution snake"
-          branch: output
-          file_pattern: dist/*
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
