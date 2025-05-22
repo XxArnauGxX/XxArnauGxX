@@ -34,7 +34,7 @@
         Spanish
       </td>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="border-radius: 50%;" /><br />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="margin-bottom: 4px;" /><br />
         Catalan
       </td>
       <td>
