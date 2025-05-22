@@ -26,23 +26,22 @@
 
 ## 📬 Contact Me
 
-<p align="center" style="margin-bottom: 20px;">
-  <a href="mailto:gilgilarnau@gmail.com" 
-     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #D14836; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
-     title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" style="margin-right:8px;"/> Email
+<div align="center" style="margin-bottom: 30px;">
+  <a href="mailto:gilgilarnau@gmail.com" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/64/732/732200.png" alt="Email" width="40" style="vertical-align: middle;"/>
+    <span style="font-weight: 600; color: #D14836; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">gilgilarnau@gmail.com</span>
   </a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" 
-     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0077B5; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
-     title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="margin-right:8px;"/> LinkedIn
+
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/64/174/174857.png" alt="LinkedIn" width="40" style="vertical-align: middle;"/>
+    <span style="font-weight: 600; color: #0077B5; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">LinkedIn</span>
   </a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" 
-     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #121212; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
-     title="Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/24/841/841364.png" alt="Portfolio" style="margin-right:8px;"/> Portfolio
+
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/64/841/841364.png" alt="Portfolio" width="40" style="vertical-align: middle;"/>
+    <span style="font-weight: 600; color: #121212; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">Portfolio</span>
   </a>
-</p>
+</div>
 
 ---
 
@@ -67,23 +66,52 @@
 
 ## 💻 Tech Stack
 
-### 🌐 Frontend
+<div align="center" style="max-width: 700px; margin: auto;">
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
-</p>
+  <div style="margin-bottom: 30px;">
+    <h3 style="text-align:center; font-weight: 700; color: #4CAF50;">🌐 Frontend</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" />
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" />
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" />
+    </div>
+  </div>
 
-### ⚙️ Backend
+  <div style="margin-bottom: 30px;">
+    <h3 style="text-align:center; font-weight: 700; color: #FF5722;">⚙️ Backend</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" />
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" />
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" />
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="50" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+    </div>
+  </div>
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
-</p>
+  <div>
+    <h3 style="text-align:center; font-weight: 700; color: #2196F3;">🖥️ Others</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" />
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" />
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" />
+      <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" />
+    </div>
+  </div>
 
-### 🖥️ Others
-
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,gcp,aws" />
-</p>
+</div>
 
 ---
 
@@ -153,10 +181,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="profile views" />
-</p>
-
----
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" style="width: 100%;" />
 </p>
