@@ -1,61 +1,66 @@
 <h1 align="center">Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <a href="https://github.com/XxArnauGxX">
+    <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<!-- Banner centrado y tamaño moderado -->
-<p align="center" style="margin: 20px 0;">
-  <img 
-    src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-blueviolet?style=for-the-badge&logo=github" 
-    alt="Open to Opportunities" 
-    style="max-width: 400px; display: inline-block;"
-  />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm **Arnau**, a junior Full Stack Developer based in **Barcelona, Spain**.
+- 🎓 Junior Full Stack Developer based in **Barcelona, Spain**.
 - 📚 Recently graduated in **Web Application Development (DAW)**.
-- 🛠️ I love blending logic and creativity to build meaningful projects.
-- 🎹 In my free time, I enjoy **playing piano** and making music.
-- 🚀 Currently looking for opportunities to grow and contribute as a developer.
+- 🛠️ Passionate about building scalable and clean web applications.
+- 🎹 Piano player in my free time — a way to relax and get creative.
+- 🚀 Actively seeking opportunities to contribute, learn, and grow in software development.
 
 ---
 
 ## 🌍 Languages
 
-<p align="center" style="font-size: 1.2em;">
-  <span>🇪🇸 Spanish (Native)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>🏴‍☠️ Catalan (Native)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>🇫🇷 French (Basic)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>🇬🇧 English (B2 Intermediate)</span>
+<p align="center" style="font-size:1.1em;">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ea-1f1f8.png" alt="Spanish" width="28" height="28" /> Spanish (Native) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> Catalan (Native) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French" width="28" height="19" style="vertical-align:middle;" /> French (Basic) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English" width="28" height="19" style="vertical-align:middle;" /> English (B2 Intermediate)
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend tech" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,sass,tailwind,js,ts,react,nextjs,redux,vue,angular,bootstrap,webpack,vite" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql" alt="Backend tech" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" alt="Backend" />
 </p>
 
-### 🛠️ Tools & Other
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+### 🛠️ Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,jest,eslint,prettier,webpack" alt="Tools" />
 </p>
 
-</div>
+---
+
+## 🌟 Soft Skills
+
+<p align="center">
+  <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Communication</code> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Problem Solving</code> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Adaptability</code> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Creativity</code>
+</p>
 
 ---
 
@@ -65,17 +70,21 @@
 
 ---
 
+## 🎯 Goals & Learning
+
+- Master advanced React patterns & TypeScript
+- Deepen knowledge in backend with Node.js and Docker
+- Explore AI and cybersecurity fundamentals
+- Improve UI/UX design skills with Figma
+
+---
+
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub stats" style="max-width: 320px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" alt="GitHub streak" style="max-width: 320px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&layout=compact&theme=tokyonight" alt="Top languages" style="max-width: 320px;" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" />
+</p>
 
 ---
 
@@ -84,25 +93,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=XxArnauGxX&theme=onedark&row=2&column=3" />
 </p>
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:gilgilarnau@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 🤖 I'm passionate about **AI** and **cybersecurity**.
-- 🕹️ Huge fan of **retro games** and **simulators**.
-- 🎧 I love listening to **classical music** while coding.
-- 🎨 I enjoy **graphic design** and **video editing** as creative hobbies.
 
 ---
 
@@ -116,11 +106,30 @@
 
 ---
 
-<!-- Profile views al final, centrado -->
-<p align="center" style="margin-top: 40px;">
-  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## 📬 Contact Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer waving" />
+  <a href="mailto:gilgilarnau@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
