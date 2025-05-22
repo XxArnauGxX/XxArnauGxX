@@ -59,72 +59,8 @@
 
 ## 📬 Contact Me
 
-<div align="center" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 500px; margin-left: auto; margin-right: auto;">
-
-  <a href="mailto:gilgilarnau@gmail.com" target="_blank" rel="noopener" style="text-decoration: none;">
-    <button style="
-      background-color: #D14836;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      font-weight: 600;
-      font-size: 1em;
-      border-radius: 30px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      box-shadow: 0 4px 8px rgba(209, 72, 54, 0.3);
-      transition: background-color 0.3s ease;
-    " onmouseover="this.style.backgroundColor='#b1352c'" onmouseout="this.style.backgroundColor='#D14836'">
-      <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="24" />
-      Email Me
-    </button>
-  </a>
-
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" style="text-decoration: none;">
-    <button style="
-      background-color: #0077B5;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      font-weight: 600;
-      font-size: 1em;
-      border-radius: 30px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      box-shadow: 0 4px 8px rgba(0, 119, 181, 0.3);
-      transition: background-color 0.3s ease;
-    " onmouseover="this.style.backgroundColor='#005582'" onmouseout="this.style.backgroundColor='#0077B5'">
-      <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" width="24" />
-      LinkedIn
-    </button>
-  </a>
-
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" style="text-decoration: none;">
-    <button style="
-      background-color: #121212;
-      color: white;
-      border: none;
-      padding: 12px 24px;
-      font-weight: 600;
-      font-size: 1em;
-      border-radius: 30px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      box-shadow: 0 4px 8px rgba(18, 18, 18, 0.3);
-      transition: background-color 0.3s ease;
-    " onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#121212'">
-      <img src="https://cdn-icons-png.flaticon.com/32/841/841364.png" alt="Portfolio" width="24" />
-      Portfolio
-    </button>
-  </a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-gil-gil/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxArnauGxX)
 
 ---
 
