@@ -4,8 +4,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-blueviolet?style=for-the-badge&logo=github" alt="Open to Opportunities" />
+<!-- Banner ancho completo -->
+<p align="center" style="width: 100%; margin: 20px 0;">
+  <img 
+    src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-blueviolet?style=for-the-badge&logo=github" 
+    alt="Open to Opportunities" 
+    style="width: 100%; max-width: 700px; display: block; margin: 0 auto;"
+  />
 </p>
 
 ---
@@ -33,20 +38,24 @@
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 🌐 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend tech" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql" alt="Backend tech" />
 </p>
 
 ### 🛠️ Tools & Other
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
 </p>
+
+</div>
 
 ---
 
@@ -58,17 +67,20 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub stats" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" alt="GitHub streak" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+
+  <br />
+
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="Profile views" />
+
+</div>
 
 ---
 
