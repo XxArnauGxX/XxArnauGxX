@@ -28,19 +28,19 @@
 
 <p align="center" style="margin-bottom: 20px;">
   <a href="mailto:gilgilarnau@gmail.com" 
-     style="display: inline-block; text-decoration: none; background-color: #D14836; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #D14836; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
      title="Email">
-    📧 Email
+    <img src="https://cdn-icons-png.flaticon.com/24/732/732200.png" alt="Email" style="margin-right:8px;"/> Email
   </a>
   <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" 
-     style="display: inline-block; text-decoration: none; background-color: #0077B5; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0077B5; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
      title="LinkedIn">
-    💼 LinkedIn
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="margin-right:8px;"/> LinkedIn
   </a>
   <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" 
-     style="display: inline-block; text-decoration: none; background-color: #121212; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
+     style="display: inline-flex; align-items: center; text-decoration: none; background-color: #121212; color: white; font-weight: 600; padding: 10px 20px; border-radius: 8px; margin: 0 10px;" 
      title="Portfolio">
-    💻 Portfolio
+    <img src="https://cdn-icons-png.flaticon.com/24/841/841364.png" alt="Portfolio" style="margin-right:8px;"/> Portfolio
   </a>
 </p>
 
