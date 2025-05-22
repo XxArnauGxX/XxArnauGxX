@@ -59,8 +59,6 @@
 
 ## 📬 Contact Me
 
-## Contacto
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://xxarnaugxx.github.io/curriculum-web/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilgilarnau@gmail.com)
