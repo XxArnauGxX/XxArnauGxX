@@ -68,25 +68,19 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
-  Frontend Technologies
-</p>
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
-<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
-  Backend Technologies
-</p>
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
 </p>
 
 ### 🖥️ Others
-<p align="center" style="margin-bottom: 20px; font-weight: 600; font-size: 1.3em;">
-  Other Tools & Platforms
-</p>
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,gcp,aws" />
 </p>
@@ -94,10 +88,6 @@
 ---
 
 ## 🌟 Soft Skills
-
-<p align="center" style="font-weight: 600; font-size: 1.3em; margin-bottom: 10px;">
-  Soft Skills
-</p>
 
 <p style="font-size: 1.1em; letter-spacing: 1.2px; text-align: center;">
   <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
