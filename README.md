@@ -247,6 +247,4 @@
   <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="profile views" />
 </p>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
