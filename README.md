@@ -25,10 +25,10 @@
 ## 🌍 Languages
 
 <p align="center" style="font-size:1.1em;">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ea-1f1f8.png" alt="Spanish" width="28" height="28" /> Spanish (Native) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> Catalan (Native) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French" width="28" height="19" style="vertical-align:middle;" /> French (Basic) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="English" width="28" height="19" style="vertical-align:middle;" /> English (B2 Intermediate)
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" alt="Spanish" width="28" height="28" /> &nbsp; Spanish (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Catalonia.svg" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> &nbsp; Catalan (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" alt="French" width="28" height="28" /> &nbsp; French (Basic) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" alt="English" width="28" height="28" /> &nbsp; English (B2 Intermediate)
 </p>
 
 ---
@@ -42,12 +42,12 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker,kubernetes" alt="Backend" />
 </p>
 
 ### 🛠️ Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,jest,eslint,prettier,webpack" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,jest,eslint,prettier,docker" alt="Tools" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 🎯 Goals & Learning
 
 - Master advanced React patterns & TypeScript
-- Deepen knowledge in backend with Node.js and Docker
+- Deepen backend knowledge with Node.js and Docker
 - Explore AI and cybersecurity fundamentals
 - Improve UI/UX design skills with Figma
 
@@ -82,8 +82,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" alt="GitHub Streak" style="margin-left: 10px;" />
+</p>
+
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
