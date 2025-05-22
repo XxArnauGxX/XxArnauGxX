@@ -26,3 +26,5 @@ jobs:
           commit_message: "🐍 update contribution snake"
           branch: output
           file_pattern: dist/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
