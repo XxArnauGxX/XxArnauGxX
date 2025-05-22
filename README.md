@@ -1,13 +1,13 @@
-<h1>Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
+<h1 align="center">Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
 
-<p>
-  <a href="https://github.com/XxArnauGxX">
+<p align="center">
+  <a href="https://github.com/XxArnauGxX" style="text-decoration:none;">
     <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -26,15 +26,47 @@
 
 ## 📬 Contact Me
 
-<p>
-  <a href="mailto:gilgilarnau@gmail.com" title="Email" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="mailto:gilgilarnau@gmail.com" title="Email" style="
+    background-color: #D14836;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(209,72,54,0.4);
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#b8392b'" onmouseout="this.style.backgroundColor='#D14836'">
+    📧 Email
   </a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn" style="
+    background-color: #0077B5;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0,119,181,0.4);
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#005f8e'" onmouseout="this.style.backgroundColor='#0077B5'">
+    💼 LinkedIn
   </a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" />
+
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio" style="
+    background-color: #121212;
+    color: white;
+    padding: 10px 22px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(18,18,18,0.4);
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#0a0a0a'" onmouseout="this.style.backgroundColor='#121212'">
+    💻 Portfolio
   </a>
 </p>
 
