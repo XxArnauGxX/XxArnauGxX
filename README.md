@@ -246,3 +246,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+---
+
+<p align="center" style="margin-top: 40px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="RGB Waves" style="width: 100%; max-height: 150px; object-fit: cover;" />
+</p>
