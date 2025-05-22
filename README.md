@@ -19,9 +19,9 @@
 ## 🌍 Languages
 
 <p align="center">
-  <strong>🇪🇸 Spanish:</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>🇦🇩 Catalan:</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>🇬🇧 English:</strong> B2 Intermediate
+  <strong>🇪🇸 Spanish (Spain):</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>🇦🇩 Catalan (Andorra):</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>🇬🇧 English (UK):</strong> B2 Intermediate
 </p>
 
 ---
@@ -29,17 +29,17 @@
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools & Other
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
@@ -80,11 +80,9 @@
 
 ## ⚡ Fun Facts
 
-- 🤖 I'm passionate about **AI** and **cybersecurity**.
-- 🕹️ Huge fan of **retro games** and **simulators**.
-- 🎧 Always coding with **electronic music** or **Lo-Fi** playing in the background.
-- 🎨 I also enjoy **graphic design** and **video editing** as a creative outlet.
-- 🎹 I love **playing piano** — it's my way to disconnect and create.
+- 🎼 I enjoy listening to **classical music** while coding or relaxing.
+- 🎮 Big fan of **video games**, especially retro and simulators.
+- 🎨 I like to explore **graphic design** and **video editing** creatively.
 
 ---
 
