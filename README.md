@@ -22,11 +22,27 @@
 
 ---
 
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:gilgilarnau@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🌍 Languages
 
 <p align="center" style="font-size:1.1em;">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" alt="Spanish" width="28" height="28" /> &nbsp; Spanish (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Catalonia.svg" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> &nbsp; Catalan (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> &nbsp; Catalan (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" alt="French" width="28" height="28" /> &nbsp; French (Basic) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" alt="English" width="28" height="28" /> &nbsp; English (B2 Intermediate)
 </p>
@@ -37,17 +53,41 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,sass,tailwind,js,ts,react,nextjs,redux,vue,angular,bootstrap,webpack,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,webpack,vite" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker,kubernetes" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" alt="Backend" />
 </p>
 
 ### 🛠️ Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,jest,eslint,prettier,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,eslint,prettier,docker" alt="Tools" />
+</p>
+
+---
+
+## 🧠 Additional Knowledge
+
+### 🎨 Design & Multimedia
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/photoshop--v1.png" alt="Photoshop" title="Photoshop" /> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" title="Canva" /> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Premiere" title="Adobe Premiere" />
+</p>
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" title="Ubuntu" /> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud" /> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />
+</p>
+
+### 💻 IDEs & Languages
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" /> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </p>
 
 ---
@@ -82,8 +122,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" alt="GitHub Streak" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" style="margin-right: 10px;" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" style="margin-left: 10px;" alt="GitHub Streak" />
 </p>
 
 <p align="center" style="margin-top: 15px;">
@@ -107,22 +147,6 @@
 </p>
 
 > Generated with [Platane/snk](https://github.com/Platane/snk)
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:gilgilarnau@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
