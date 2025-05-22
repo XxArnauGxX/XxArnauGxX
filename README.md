@@ -51,7 +51,7 @@
     <tr>
       <td align="center">Native</td>
       <td align="center">Native</td>
-      <td align="center">Basic</td>
+      <td align="center">A1</td>
       <td align="center">B2</td>
     </tr>
   </table>
@@ -63,7 +63,7 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
@@ -78,7 +78,7 @@
 
 ### ☁️ Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws" />
 </p>
 
 ### 🔧 DevOps / Scripting
