@@ -14,17 +14,19 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Junior Full Stack Developer based in **Barcelona, Spain**.
-- 📚 Recently graduated in **Web Application Development (DAW)**.
-- 🛠️ Passionate about building scalable and clean web applications.
-- 🎹 Piano player in my free time — a way to relax and get creative.
-- 🚀 Actively seeking opportunities to contribute, learn, and grow in software development.
+<ul align="center" style="list-style:none; padding-left: 0; max-width: 650px; margin: auto;">
+  <li>🎓 Junior Full Stack Developer based in <b>Barcelona, Spain</b>.</li>
+  <li>📚 Recently graduated in <b>Web Application Development (DAW)</b>.</li>
+  <li>🛠️ Passionate about building scalable and clean web applications.</li>
+  <li>🎹 Piano player in my free time — a way to relax and get creative.</li>
+  <li>🚀 Actively seeking opportunities to contribute, learn, and grow in software development.</li>
+</ul>
 
 ---
 
 ## 📬 Contact Me
 
-<p align="center">
+<p align="center" style="margin-bottom: 30px;">
   <a href="mailto:gilgilarnau@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -40,63 +42,61 @@
 
 ## 🌍 Languages
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" /> Spanish</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" /> Catalan</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" /> French</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" /> English</td>
-    </tr>
-    <tr>
-      <td align="center">Native</td>
-      <td align="center">Native</td>
-      <td align="center">A1</td>
-      <td align="center">B2</td>
-    </tr>
-  </table>
-</p>
+<table align="center" style="margin: auto; text-align: center;">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br>Spanish</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" /><br>Catalan</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br>French</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br>English</td>
+  </tr>
+  <tr>
+    <td><b>Native</b></td>
+    <td><b>Native</b></td>
+    <td><b>A1</b></td>
+    <td><b>B2</b></td>
+  </tr>
+</table>
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
 </p>
 
 ### 🎨 UI / Diseño
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
 
 ### ☁️ Cloud
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=gcp,aws" />
 </p>
 
 ### 🔧 DevOps / Scripting
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=github,githubactions,linux,bash" />
 </p>
 
 ### 🛠️ Herramientas y Organización
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=git,vscode,postman,prettier,eslint" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/SCRUM-Agile-informational?style=flat-square&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
 ### 🖥️ Otros
-<p align="center">
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -107,7 +107,7 @@
 
 ## 🌟 Soft Skills
 
-<p align="center">
+<p align="center" style="font-size: 1.1em; letter-spacing: 1.2px;">
   <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Communication</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Problem Solving</code> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -119,27 +119,31 @@
 
 ## 🚧 Projects in Progress
 
-> I'm currently working on several personal and portfolio projects. Stay tuned — more coming soon!
+<p align="center" style="max-width: 650px; margin: auto; font-style: italic;">
+  I'm currently working on several personal and portfolio projects. Stay tuned — more coming soon!
+</p>
 
 ---
 
 ## 🎯 Goals & Learning
 
-- Master advanced React patterns & TypeScript
-- Deepen backend knowledge with Node.js and Docker
-- Explore AI and cybersecurity fundamentals
-- Improve UI/UX design skills with Figma
+<ul align="center" style="list-style:none; padding-left: 0; max-width: 650px; margin: auto;">
+  <li>Master advanced React patterns & TypeScript</li>
+  <li>Deepen backend knowledge with Node.js and Docker</li>
+  <li>Explore AI and cybersecurity fundamentals</li>
+  <li>Improve UI/UX design skills with Figma</li>
+</ul>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" />
 </p>
 
