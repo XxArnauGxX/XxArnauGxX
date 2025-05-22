@@ -27,13 +27,13 @@
 ## 📬 Contact Me
 
 <p>
-  <a href="mailto:gilgilarnau@gmail.com" title="Email">
+  <a href="mailto:gilgilarnau@gmail.com" title="Email" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" title="LinkedIn" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio">
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" title="Portfolio" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
@@ -45,7 +45,7 @@
 <table style="margin: auto; text-align: center;">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br>Spanish</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" /><br>Catalan</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="border-radius: 50%;" /><br>Catalan</td>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br>French</td>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br>English</td>
   </tr>
@@ -140,7 +140,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark Mode" />
+  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 > Generated with [Platane/snk](https://github.com/Platane/snk)
@@ -156,5 +156,5 @@
 ---
 
 <p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" style="width: 100%;" />
 </p>
