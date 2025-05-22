@@ -105,7 +105,7 @@
 
 ### 🖥️ Otros
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,canva,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,gcp,aws" />
 </p>
 
 ---
