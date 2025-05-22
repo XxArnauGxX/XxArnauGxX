@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C3FF&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer+💻;Passionate+about+tech+and+innovation+🚀;Always+learning+something+new+📚" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
@@ -95,7 +91,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 > Generated with [Platane/snk](https://github.com/Platane/snk)
