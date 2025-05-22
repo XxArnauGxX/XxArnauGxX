@@ -77,7 +77,7 @@
 <table style="margin: auto; text-align: center;">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br>Spanish</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="border-radius: 50%;" /><br>Catalan</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" /><br>Catalan</td>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br>French</td>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br>English</td>
   </tr>
@@ -106,13 +106,6 @@
 ### 🖥️ Otros
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,canva,gcp,aws" />
-  <br/>
-  <img src="https://img.shields.io/badge/SCRUM-Agile-informational?style=flat-square&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
