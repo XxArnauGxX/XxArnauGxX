@@ -24,43 +24,107 @@
 
 ---
 
-## 📬 Contact Me
+## 🌍 Languages
 
-<div align="center" style="margin-bottom: 30px;">
-  <a href="mailto:gilgilarnau@gmail.com" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/64/732/732200.png" alt="Email" width="40" style="vertical-align: middle;"/>
-    <span style="font-weight: 600; color: #D14836; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">gilgilarnau@gmail.com</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/64/174/174857.png" alt="LinkedIn" width="40" style="vertical-align: middle;"/>
-    <span style="font-weight: 600; color: #0077B5; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">LinkedIn</span>
-  </a>
-
-  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" style="text-decoration:none; margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/64/841/841364.png" alt="Portfolio" width="40" style="vertical-align: middle;"/>
-    <span style="font-weight: 600; color: #121212; font-size: 1.2em; margin-left: 8px; vertical-align: middle;">Portfolio</span>
-  </a>
+<div align="center" style="margin-bottom: 40px;">
+  <table style="margin: auto; text-align: center;">
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br />
+        Spanish
+      </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="border-radius: 50%;" /><br />
+        Catalan
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br />
+        French
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br />
+        English
+      </td>
+    </tr>
+    <tr>
+      <td><b>Native</b></td>
+      <td><b>Native</b></td>
+      <td><b>A1</b></td>
+      <td><b>B2</b></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🌍 Languages
+## 📬 Contact Me
 
-<table style="margin: auto; text-align: center;">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br>Spanish</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" style="border-radius: 50%;" /><br>Catalan</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br>French</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br>English</td>
-  </tr>
-  <tr>
-    <td><b>Native</b></td>
-    <td><b>Native</b></td>
-    <td><b>A1</b></td>
-    <td><b>B2</b></td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 40px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 500px; margin-left: auto; margin-right: auto;">
+
+  <a href="mailto:gilgilarnau@gmail.com" target="_blank" rel="noopener" style="text-decoration: none;">
+    <button style="
+      background-color: #D14836;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-weight: 600;
+      font-size: 1em;
+      border-radius: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 8px rgba(209, 72, 54, 0.3);
+      transition: background-color 0.3s ease;
+    " onmouseover="this.style.backgroundColor='#b1352c'" onmouseout="this.style.backgroundColor='#D14836'">
+      <img src="https://cdn-icons-png.flaticon.com/32/732/732200.png" alt="Email" width="24" />
+      Email Me
+    </button>
+  </a>
+
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9" target="_blank" rel="noopener" style="text-decoration: none;">
+    <button style="
+      background-color: #0077B5;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-weight: 600;
+      font-size: 1em;
+      border-radius: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 8px rgba(0, 119, 181, 0.3);
+      transition: background-color 0.3s ease;
+    " onmouseover="this.style.backgroundColor='#005582'" onmouseout="this.style.backgroundColor='#0077B5'">
+      <img src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="LinkedIn" width="24" />
+      LinkedIn
+    </button>
+  </a>
+
+  <a href="https://xxarnaugxx.github.io/curriculum-web/" target="_blank" rel="noopener" style="text-decoration: none;">
+    <button style="
+      background-color: #121212;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-weight: 600;
+      font-size: 1em;
+      border-radius: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 8px rgba(18, 18, 18, 0.3);
+      transition: background-color 0.3s ease;
+    " onmouseover="this.style.backgroundColor='#333333'" onmouseout="this.style.backgroundColor='#121212'">
+      <img src="https://cdn-icons-png.flaticon.com/32/841/841364.png" alt="Portfolio" width="24" />
+      Portfolio
+    </button>
+  </a>
+
+</div>
 
 ---
 
