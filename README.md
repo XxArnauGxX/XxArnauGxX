@@ -40,11 +40,21 @@
 
 ## 🌍 Languages
 
-<p align="center" style="font-size:1.1em;">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" alt="Spanish" width="28" height="28" /> &nbsp; Spanish (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" alt="Catalan" width="28" height="19" style="vertical-align:middle;" /> &nbsp; Catalan (Native) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" alt="French" width="28" height="28" /> &nbsp; French (Basic) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" alt="English" width="28" height="28" /> &nbsp; English (B2 Intermediate)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" /> Spanish</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" /> Catalan</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" /> French</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" /> English</td>
+    </tr>
+    <tr>
+      <td align="center">Native</td>
+      <td align="center">Native</td>
+      <td align="center">Basic</td>
+      <td align="center">B2</td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -53,41 +63,44 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,webpack,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vite" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
 </p>
 
-### 🛠️ Tools & Others
+### 🎨 UI / Diseño
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,githubpages,vscode,figma,postman,eslint,prettier,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
 
----
-
-## 🧠 Additional Knowledge
-
-### 🎨 Design & Multimedia
+### ☁️ Cloud
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/photoshop--v1.png" alt="Photoshop" title="Photoshop" /> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" title="Canva" /> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Premiere" title="Adobe Premiere" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify" />
 </p>
 
-### ☁️ Cloud Platforms
+### 🔧 DevOps / Scripting
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" title="Ubuntu" /> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" title="Google Cloud" /> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,linux,bash" />
 </p>
 
-### 💻 IDEs & Languages
+### 🛠️ Herramientas y Organización
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" /> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,prettier,eslint" />
+  <br/>
+  <img src="https://img.shields.io/badge/SCRUM-Agile-informational?style=flat-square&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+</p>
+
+### 🖥️ Otros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
@@ -122,12 +135,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" style="margin-right: 10px;" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" style="margin-left: 10px;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight&hide_title=true" />
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&langs_count=8&theme=tokyonight&hide_title=true&layout=compact" />
 </p>
 
 ---
