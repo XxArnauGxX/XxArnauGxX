@@ -26,7 +26,7 @@
 
 ## 🌍 Languages
 
-<div align="center" style="margin-bottom: 40px;">
+<div style="margin-bottom: 40px;">
   <table style="margin: auto; text-align: center;">
     <tr>
       <td>
