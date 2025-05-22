@@ -17,9 +17,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push the generated snake.svg to the output branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push the generated files
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git clone --depth=1 --branch=output https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} output
+          cp -r dist/* output/
+          cd output
+          git add .
+          git commit -m "🐍 Update snake animation" || echo "No changes to commit"
+          git push origin output
