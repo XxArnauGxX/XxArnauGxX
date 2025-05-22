@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<!-- Banner ancho completo -->
-<p align="center" style="width: 100%; margin: 20px 0;">
+<!-- Banner centrado y tamaño moderado -->
+<p align="center" style="margin: 20px 0;">
   <img 
     src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-blueviolet?style=for-the-badge&logo=github" 
     alt="Open to Opportunities" 
-    style="width: 100%; max-width: 700px; display: block; margin: 0 auto;"
+    style="max-width: 400px; display: inline-block;"
   />
 </p>
 
@@ -67,18 +67,13 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub stats" style="max-width: 320px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" alt="GitHub streak" style="max-width: 320px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&layout=compact&theme=tokyonight" alt="Top languages" />
-
-  <br />
-
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&layout=compact&theme=tokyonight" alt="Top languages" style="max-width: 320px;" />
 
 </div>
 
@@ -120,6 +115,11 @@
 > Generated with [Platane/snk](https://github.com/Platane/snk)
 
 ---
+
+<!-- Profile views al final, centrado -->
+<p align="center" style="margin-top: 40px;">
+  <img src="https://komarev.com/ghpvc/?username=XxArnauGxX&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer waving" />
