@@ -31,19 +31,19 @@
     <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br />
-        Spanish
+        <span style="display: inline-block; margin-top: 4px;">Spanish</span>
       </td>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" /><br />
-        Catalan
+        <span style="display: inline-block; margin-top: 4px;">&nbsp;Catalan</span>
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1eb-1f1f7.png" width="28" alt="French" /><br />
-        French
+        <span style="display: inline-block; margin-top: 4px;">French</span>
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ec-1f1e7.png" width="28" alt="English" /><br />
-        English
+        <span style="display: inline-block; margin-top: 4px;">English</span>
       </td>
     </tr>
     <tr>
