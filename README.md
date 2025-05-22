@@ -1,12 +1,12 @@
-<h1 align="center">Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
+<h1>Hi there! 👋 I'm Arnau (@XxArnauGxX)</h1>
 
-<p align="center">
+<p>
   <a href="https://github.com/XxArnauGxX">
     <img alt="Open to Work" src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<ul align="center" style="list-style:none; padding-left: 0; max-width: 650px; margin: auto;">
+<ul style="list-style:none; padding-left: 0; max-width: 650px;">
   <li>🎓 Junior Full Stack Developer based in <b>Barcelona, Spain</b>.</li>
   <li>📚 Recently graduated in <b>Web Application Development (DAW)</b>.</li>
   <li>🛠️ Passionate about building scalable and clean web applications.</li>
@@ -26,7 +26,7 @@
 
 ## 📬 Contact Me
 
-<p align="center" style="margin-bottom: 30px;">
+<p>
   <a href="mailto:gilgilarnau@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -42,7 +42,7 @@
 
 ## 🌍 Languages
 
-<table align="center" style="margin: auto; text-align: center;">
+<table style="margin: auto; text-align: center;">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f1ea-1f1f8.png" width="28" alt="Spanish" /><br>Spanish</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/800px-Flag_of_Catalonia.svg.png" width="28" alt="Catalan" /><br>Catalan</td>
@@ -71,33 +71,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,postgres,docker" />
 </p>
 
-### 🎨 UI / Diseño
+### 🖥️ Otros
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
-</p>
-
-### ☁️ Cloud
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=gcp,aws" />
-</p>
-
-### 🔧 DevOps / Scripting
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,linux,bash" />
-</p>
-
-### 🛠️ Herramientas y Organización
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,prettier,eslint" />
-  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,git,github,linux,vscode,figma,photoshop,canva,gcp,aws" />
+  <br/>
   <img src="https://img.shields.io/badge/SCRUM-Agile-informational?style=flat-square&logo=scrumalliance&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-</p>
-
-### 🖥️ Otros
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
@@ -107,7 +87,7 @@
 
 ## 🌟 Soft Skills
 
-<p align="center" style="font-size: 1.1em; letter-spacing: 1.2px;">
+<p style="font-size: 1.1em; letter-spacing: 1.2px;">
   <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Communication</code> &nbsp;&nbsp;|&nbsp;&nbsp;
   <code>Problem Solving</code> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -119,7 +99,7 @@
 
 ## 🚧 Projects in Progress
 
-<p align="center" style="max-width: 650px; margin: auto; font-style: italic;">
+<p style="max-width: 650px; margin: auto; font-style: italic;">
   I'm currently working on several personal and portfolio projects. Stay tuned — more coming soon!
 </p>
 
@@ -127,7 +107,7 @@
 
 ## 🎯 Goals & Learning
 
-<ul align="center" style="list-style:none; padding-left: 0; max-width: 650px; margin: auto;">
+<ul style="list-style:none; padding-left: 0; max-width: 650px;">
   <li>Master advanced React patterns & TypeScript</li>
   <li>Deepen backend knowledge with Node.js and Docker</li>
   <li>Explore AI and cybersecurity fundamentals</li>
@@ -160,7 +140,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/XxArnauGxX/XxArnauGxX/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark Mode" />
 </p>
 
 > Generated with [Platane/snk](https://github.com/Platane/snk)
@@ -175,6 +155,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 100%;" />
 </p>
