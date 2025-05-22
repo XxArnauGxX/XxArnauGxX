@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Opportunities-blueviolet?style=for-the-badge&logo=github" alt="Open to Opportunities" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -18,10 +22,11 @@
 
 ## 🌍 Languages
 
-<p align="center">
-  <strong>🇪🇸 Spanish (Spain):</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>🇦🇩 Catalan (Andorra):</strong> Native &nbsp;&nbsp;|&nbsp;&nbsp;
-  <strong>🇬🇧 English (UK):</strong> B2 Intermediate
+<p align="center" style="font-size: 1.2em;">
+  <span>🇪🇸 Spanish (Native)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>🏴‍☠️ Catalan (Native)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>🇫🇷 French (Basic)</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>🇬🇧 English (B2 Intermediate)</span>
 </p>
 
 ---
@@ -30,17 +35,17 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend tech" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mongodb,mysql" alt="Backend tech" />
 </p>
 
 ### 🛠️ Tools & Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
 </p>
 
 ---
@@ -54,8 +59,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XxArnauGxX&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XxArnauGxX&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxArnauGxX&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
@@ -71,18 +83,19 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:gilgilarnau@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://xxarnaugxx.github.io/curriculum-web/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:gilgilarnau@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arnau-gil-gil-b8309b2b9"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xxarnaugxx.github.io/curriculum-web/"><img src="https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🎼 I enjoy listening to **classical music** while coding or relaxing.
-- 🎮 Big fan of **video games**, especially retro and simulators.
-- 🎨 I like to explore **graphic design** and **video editing** creatively.
+- 🤖 I'm passionate about **AI** and **cybersecurity**.
+- 🕹️ Huge fan of **retro games** and **simulators**.
+- 🎧 I love listening to **classical music** while coding.
+- 🎨 I enjoy **graphic design** and **video editing** as creative hobbies.
 
 ---
 
@@ -97,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer waving" />
 </p>
