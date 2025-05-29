@@ -124,17 +124,6 @@
 
 ---
 
-## 🎯 Goals & Learning
-
-<ul style="list-style:none; padding-left: 0; max-width: 650px;">
-  <li>Master advanced React patterns & TypeScript</li>
-  <li>Deepen backend knowledge with Node.js and Docker</li>
-  <li>Explore AI and cybersecurity fundamentals</li>
-  <li>Improve UI/UX design skills with Figma</li>
-</ul>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
