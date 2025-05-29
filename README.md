@@ -116,18 +116,6 @@
 
 ---
 
-## 🌟 Soft Skills
-
-<p style="font-size: 1.1em; letter-spacing: 1.2px; text-align: center;">
-  <code>Teamwork</code> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>Communication</code> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>Problem Solving</code> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>Adaptability</code> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>Creativity</code>
-</p>
-
----
-
 ## 🚧 Projects in Progress
 
 <p style="max-width: 650px; margin: auto; font-style: italic;">
